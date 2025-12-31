@@ -18,7 +18,7 @@ Since this extension is currently in development, you can load it into Chrome ma
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/xyzsola/focus-now
     cd focus-now
     ```
 2.  **Install Dependencies**:
